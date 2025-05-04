@@ -1,0 +1,7 @@
+sdk: gradio
+python_version: 3.11
+app_file: app.py
+title: Object Detection App
+subtitle: Real-time object detection in images using Gradio
+hardware: cpu-basic
+license: mit
